@@ -1,0 +1,25 @@
+{
+  "name": "NYT_Scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamangutanGH/NYT_Scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamangutanGH/NYT_Scrape/issues"
+  },
+  "homepage": "https://github.com/JamangutanGH/NYT_Scrape#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
